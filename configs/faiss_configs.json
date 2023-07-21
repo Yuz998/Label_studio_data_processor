@@ -1,0 +1,47 @@
+{
+    "nprobe": 8,
+    "Disease": {
+        "vector_for_insert_dim_size": 1866,
+        "df_for_insert_shape": [
+            177460,
+            1
+        ],
+        "df_for_insert_column_names": [
+            "vector"
+        ]
+    },
+    "Gene": {
+        "vector_for_insert_dim_size": 2200,
+        "df_for_insert_shape": [
+            200383,
+            3
+        ],
+        "df_for_insert_column_names": [
+            "dbid",
+            "text_name",
+            "tfidf_vector"
+        ]
+    },
+    "Chemical": {
+        "vector_for_insert_dim_size": 2936,
+        "df_for_insert_shape": [
+            686809,
+            3
+        ],
+        "df_for_insert_column_names": [
+            "dbid",
+            "text_name",
+            "tfidf_vector"
+        ]
+    },
+    "Pathway": {
+        "vector_for_insert_dim_size": 1385,
+        "df_for_insert_shape": [
+            276077,
+            1
+        ],
+        "df_for_insert_column_names": [
+            "vector"
+        ]
+    }
+}

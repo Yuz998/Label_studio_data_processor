@@ -1,0 +1,7 @@
+{
+    "Disease": "/home/qcdong/corpus/metanovas/NER_Dictionary/deaccent/disease_dictionary.csv",
+    "Chemical": "/mnt/nas/yuzhao/data/entity_dictionary/chemical/chemical_dictionary_mesh_chembl_pubchem_2023-03-07.csv",
+    "Gene": "/mnt/nas/yuzhao/data/entity_dictionary/gene_protein/gene_protein_fmaily_ncbi_hgnc_uniprotkb_dictionary_2023-05-23.csv",
+    "Herb": "/data/yuzhao/data/entity_dictionary/herb/herbs_organism_medicinal_plant_hit_dictionary_filtered_2023-05-10.csv",
+    "Pathway": "/data/yuzhao/data/dl_data/NER_Dictionary/deaccent/link_pathway_dictionary.tsv"
+}

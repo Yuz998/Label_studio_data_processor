@@ -1,0 +1,38 @@
+{
+    "DiseaseForMetanovas": {
+        "analyzer": "char_wb",
+        "ngram_range_left": 3,
+        "ngram_range_right": 3,
+        "min_df": 1
+    },
+    "Gene": {
+        "analyzer": "char_wb",
+        "ngram_range_left": 1,
+        "ngram_range_right": 2,
+        "min_df": 1
+    },
+    "Pathway": {
+        "analyzer": "char_wb",
+        "ngram_range_left": 1,
+        "ngram_range_right": 2,
+        "min_df": 1
+    },
+    "Chemical": {
+        "analyzer": "char_wb",
+        "ngram_range_left": 1,
+        "ngram_range_right": 2,
+        "min_df": 1
+    },
+    "Disease": {
+        "analyzer": "char_wb",
+        "ngram_range_left": 1,
+        "ngram_range_right": 2,
+        "min_df": 1
+    },
+    "Herb": {
+        "analyzer": "char_wb",
+        "ngram_range_left": 3,
+        "ngram_range_right": 3,
+        "min_df": 1
+    }
+}
